@@ -1,4 +1,4 @@
-<!-- Animated developer profile for Diganth-M -->
+<!-- Diganth-M | Developer Profile -->
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/coder-workstation.svg" width="680" alt="Animated developer coding at a dual-monitor workstation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Animated developer coding at a multi-monitor workstation" />
 
 <br/>
 
@@ -16,12 +16,13 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+<a href="https://diganth-m.github.io/Diganth-M/"><img src="https://img.shields.io/badge/OPEN-INTERACTIVE%20PORTFOLIO-087fba?style=for-the-badge&logo=github" alt="Open interactive portfolio" /></a>
+<a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-238636?style=for-the-badge&logo=github" alt="Explore projects" /></a>
 
 <br/>
 
-<a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-238636?style=for-the-badge&logo=github" alt="Explore projects" /></a>
+<img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 
 </div>
 
@@ -38,7 +39,7 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <th width="25%" align="center">Languages</th>
     <th width="25%" align="center">Backend & Frameworks</th>
@@ -46,64 +47,48 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
     <th width="25%" align="center">Database & Tools</th>
   </tr>
   <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,cpp" height="46" alt="Java and C++" />
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=spring" height="46" alt="Spring Boot" />
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" height="46" alt="HTML CSS JavaScript React" />
-    </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="46" alt="MySQL Git GitHub VS Code" />
-    </td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java,cpp" height="46" alt="Java and C++" /></td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=spring" height="46" alt="Spring Boot" /></td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,react" height="46" alt="HTML CSS JavaScript React" /></td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="46" alt="MySQL Git GitHub VS Code" /></td>
   </tr>
 </table>
 
-<p><strong>Core concepts:</strong> Object-Oriented Programming · DBMS · SQL · REST APIs</p>
+**Core concepts:** Object-Oriented Programming · DBMS · SQL · REST APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Academic AI Agent</h3>
-      <p>An AI-powered learning platform that helps students prepare for exams using their academic documents.</p>
-      <ul>
-        <li>Upload and process study PDFs</li>
-        <li>Generate explanations, notes, MCQs, assignments, and viva questions</li>
-        <li>Revisit generated learning resources</li>
-      </ul>
-      <p><strong>Tech:</strong> Java · Spring Boot · React · MySQL · Gemini API</p>
-      <a href="https://github.com/Diganth-M/AcademiaAI_agent">View project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌪️ Disaster Monitoring System</h3>
-      <p>A disaster-response dashboard with secure authentication and monitoring workflows.</p>
-      <ul>
-        <li>Email/password authentication and Google OAuth2</li>
-        <li>Password recovery and protected sessions</li>
-        <li>Role-based authorization and admin controls</li>
-      </ul>
-      <p><strong>Tech:</strong> Java 21 · Spring Boot · JavaScript · Spring Security</p>
-      <a href="https://github.com/Diganth-M/Disaster-Monitoring">View project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 Irrigation Scheduling</h3>
-      <p>A project focused on planning and organizing irrigation schedules.</p>
-      <a href="https://github.com/Diganth-M/Irrigation_Scheduling">View project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚌 Track My Bus</h3>
-      <p>A bus-tracking project in my development portfolio.</p>
-      <a href="https://github.com/Diganth-M/Track-My-Bus">View project →</a>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 Academic AI Agent</h3>
+<p>An AI-powered learning platform that helps students prepare for exams using their academic documents.</p>
+<ul><li>Upload and process study PDFs</li><li>Generate explanations, notes, MCQs, assignments and viva questions</li><li>Revisit generated learning resources</li></ul>
+<p><strong>Tech:</strong> Java · Spring Boot · React · MySQL · Gemini API</p>
+<a href="https://github.com/Diganth-M/AcademiaAI_agent">View project →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🌪️ Disaster Monitoring System</h3>
+<p>A disaster-response dashboard with secure authentication and monitoring workflows.</p>
+<ul><li>Email/password authentication and Google OAuth2</li><li>Password recovery and protected sessions</li><li>Role-based authorization and admin controls</li></ul>
+<p><strong>Tech:</strong> Java 21 · Spring Boot · JavaScript · Spring Security</p>
+<a href="https://github.com/Diganth-M/Disaster-Monitoring">View project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌱 Irrigation Scheduling</h3>
+<p>A project focused on irrigation scheduling and supporting smarter water planning.</p>
+<a href="https://github.com/Diganth-M/Irrigation_Scheduling">View project →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🚌 Track My Bus</h3>
+<p>A bus-tracking project in my development portfolio.</p>
+<a href="https://github.com/Diganth-M/Track-My-Bus">View project →</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -111,14 +96,10 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 ## 📊 GitHub Activity
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diganth-M&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diganth-M&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-
 <br/>
-
 <img src="https://streak-stats.demolab.com?user=Diganth-M&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
 </div>
 
 ---
@@ -126,23 +107,16 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diganth-M/Diganth-M/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diganth-M/Diganth-M/output/github-contribution-grid-snake.svg" />
   <img alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/output/github-contribution-grid-snake.svg" />
 </picture>
-
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
-
-<a href="https://github.com/Diganth-M"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20repositories-0A66C2?style=for-the-badge&logo=github" alt="Projects" /></a>
 
 **Thanks for visiting! Feel free to explore my projects and follow my journey.** ✨
 
