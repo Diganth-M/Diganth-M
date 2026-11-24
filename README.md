@@ -1,20 +1,23 @@
-<!-- Animated profile README for Diganth-M -->
+<!-- Animated GitHub profile for Diganth-M -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Diganth+%F0%9F%91%8B;Java+%26+Full-Stack+Developer;Building+Ideas+Into+Useful+Software" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Diganth+%F0%9F%91%8B;Java+%26+Full-Stack+Developer;Building+Ideas+Into+Useful+Software" alt="Animated introduction" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-</p>
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer coding at a laptop animation" />
+
+<br/>
 
 **Turning ideas into code, one commit at a time.**
 
-Final-year Computer Science & Engineering student · Java Developer · Full-Stack Enthusiast
+Final-year Computer Science & Engineering Student · Java Developer · Full-Stack Enthusiast
 
-<a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
-<a href="https://github.com/Diganth-M"><img src="https://img.shields.io/badge/GitHub-Profile-161b22?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+
+<a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-238636?style=for-the-badge&logo=github" alt="Explore projects" /></a>
 
 </div>
 
@@ -23,9 +26,9 @@ Final-year Computer Science & Engineering student · Java Developer · Full-Stac
 ## 👨‍💻 About Me
 
 - 🎓 Final-year **Computer Science and Engineering** student at **V.S.B. Engineering College**.
-- ☕ Interested in **Java development**, backend engineering, and building full-stack applications.
-- 🧩 Enjoy solving problems and turning concepts into practical projects.
-- 🌱 Continuously learning, experimenting, and improving through hands-on development.
+- ☕ Focused on **Java development**, backend engineering, and full-stack application development.
+- 🧠 Interested in building useful applications and solving real-world problems through code.
+- 🌱 Always learning, building, and improving through hands-on projects.
 
 ---
 
@@ -33,9 +36,28 @@ Final-year Computer Science & Engineering student · Java Developer · Full-Stac
 
 <div align="center">
 
-| Languages | Backend & Frameworks | Frontend | Database & Tools |
-|:--:|:--:|:--:|:--:|
-| <img src="https://skillicons.dev/icons?i=java,cpp" /> | <img src="https://skillicons.dev/icons?i=spring" /> | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> | <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" /> |
+<table>
+  <tr>
+    <th width="25%">Languages</th>
+    <th width="25%">Backend & Frameworks</th>
+    <th width="25%">Frontend</th>
+    <th width="25%">Database & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=java,cpp" height="48" alt="Java and C++" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" height="48" alt="HTML CSS JavaScript React" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="48" alt="MySQL Git GitHub VS Code" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -46,27 +68,27 @@ Final-year Computer Science & Engineering student · Java Developer · Full-Stac
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🤖 AcademiaAI Agent
+### 🤖 Academic AI Agent
 
-An AI-powered learning platform designed to help students prepare efficiently using their academic documents.
+An AI-powered learning platform that helps students prepare for exams using their academic documents.
 
 - Upload and process study PDFs
 - Generate explanations, notes, MCQs, assignments, and viva questions
-- Revisit learning resources through document history
+- Revisit generated learning resources
 
 **Tech:** Java · Spring Boot · React · MySQL · Gemini API
 
-<a href="https://github.com/Diganth-M/AcademiaAI_agent">View repository →</a>
+<a href="https://github.com/Diganth-M/AcademiaAI_agent">View project →</a>
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
-### 🌪️ Smart Disaster Monitoring
+### 🌪️ Disaster Monitoring System
 
-A disaster-response application focused on secure access and monitoring workflows.
+A disaster-response dashboard with secure authentication and monitoring workflows.
 
 - Email/password authentication and Google OAuth2
 - Password recovery and protected sessions
@@ -74,30 +96,36 @@ A disaster-response application focused on secure access and monitoring workflow
 
 **Tech:** Java 21 · Spring Boot · JavaScript · Spring Security
 
-<a href="https://github.com/Diganth-M/Disaster-Monitoring">View repository →</a>
+<a href="https://github.com/Diganth-M/Disaster-Monitoring">View project →</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### 🎯 Bottle Shooter
+### 🌱 Irrigation Scheduling System
 
-A browser-based target shooting game with progressive levels and gameplay challenges.
+An AI-assisted application that helps optimize farm watering schedules using field and sensor conditions.
 
-<a href="https://github.com/Diganth-M/Shooter">View repository →</a>
+- Field and sensor management
+- Automated irrigation schedule recommendations
+- AI-generated explanations and dashboard insights
 
-</td>
-<td width="50%" valign="top">
+**Tech:** Java · Spring Boot · React · MySQL
+
+<a href="https://github.com/Diganth-M/Irrigation_Scheduling">View project →</a>
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🚌 Track My Bus
 
-A project in my repository collection focused on bus tracking.
+A project in my portfolio focused on bus tracking and transit information.
 
-<a href="https://github.com/Diganth-M/Track-My-Bus">View repository →</a>
+<a href="https://github.com/Diganth-M/Track-My-Bus">View project →</a>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -121,8 +149,6 @@ A project in my repository collection focused on bus tracking.
 
 <div align="center">
 
-The snake animation is generated automatically from my GitHub contribution graph.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diganth-M/Diganth-M/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diganth-M/Diganth-M/output/github-contribution-grid-snake.svg" />
@@ -140,6 +166,6 @@ The snake animation is generated automatically from my GitHub contribution graph
 <a href="https://github.com/Diganth-M"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20repositories-0A66C2?style=for-the-badge&logo=github" alt="Projects" /></a>
 
-**Thanks for visiting! Feel free to explore my repositories and follow my journey.** ✨
+**Thanks for visiting! Feel free to explore my projects and follow my journey.** ✨
 
 </div>
