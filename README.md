@@ -1,4 +1,4 @@
-<!-- Animated GitHub profile for Diganth-M -->
+<!-- Animated developer profile for Diganth-M -->
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer coding at a laptop animation" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/coder-workstation.svg" width="680" alt="Animated developer coding at a dual-monitor workstation" />
 
 <br/>
 
@@ -14,8 +14,12 @@
 
 Final-year Computer Science & Engineering Student · Java Developer · Full-Stack Enthusiast
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+
+<br/>
 
 <a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-238636?style=for-the-badge&logo=github" alt="Explore projects" /></a>
 
@@ -34,34 +38,30 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 <table>
   <tr>
-    <th width="25%">Languages</th>
-    <th width="25%">Backend & Frameworks</th>
-    <th width="25%">Frontend</th>
-    <th width="25%">Database & Tools</th>
+    <th width="25%" align="center">Languages</th>
+    <th width="25%" align="center">Backend & Frameworks</th>
+    <th width="25%" align="center">Frontend</th>
+    <th width="25%" align="center">Database & Tools</th>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=java,cpp" height="48" alt="Java and C++" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=java,cpp" height="46" alt="Java and C++" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=spring" height="46" alt="Spring Boot" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" height="48" alt="HTML CSS JavaScript React" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" height="46" alt="HTML CSS JavaScript React" />
     </td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="48" alt="MySQL Git GitHub VS Code" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="46" alt="MySQL Git GitHub VS Code" />
     </td>
   </tr>
 </table>
 
-</div>
-
-**Core concepts:** Object-Oriented Programming · DBMS · SQL · REST APIs
+<p><strong>Core concepts:</strong> Object-Oriented Programming · DBMS · SQL · REST APIs</p>
 
 ---
 
@@ -70,60 +70,38 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🤖 Academic AI Agent
-
-An AI-powered learning platform that helps students prepare for exams using their academic documents.
-
-- Upload and process study PDFs
-- Generate explanations, notes, MCQs, assignments, and viva questions
-- Revisit generated learning resources
-
-**Tech:** Java · Spring Boot · React · MySQL · Gemini API
-
-<a href="https://github.com/Diganth-M/AcademiaAI_agent">View project →</a>
-
+      <h3>🤖 Academic AI Agent</h3>
+      <p>An AI-powered learning platform that helps students prepare for exams using their academic documents.</p>
+      <ul>
+        <li>Upload and process study PDFs</li>
+        <li>Generate explanations, notes, MCQs, assignments, and viva questions</li>
+        <li>Revisit generated learning resources</li>
+      </ul>
+      <p><strong>Tech:</strong> Java · Spring Boot · React · MySQL · Gemini API</p>
+      <a href="https://github.com/Diganth-M/AcademiaAI_agent">View project →</a>
     </td>
     <td width="50%" valign="top">
-
-### 🌪️ Disaster Monitoring System
-
-A disaster-response dashboard with secure authentication and monitoring workflows.
-
-- Email/password authentication and Google OAuth2
-- Password recovery and protected sessions
-- Role-based authorization and admin controls
-
-**Tech:** Java 21 · Spring Boot · JavaScript · Spring Security
-
-<a href="https://github.com/Diganth-M/Disaster-Monitoring">View project →</a>
-
+      <h3>🌪️ Disaster Monitoring System</h3>
+      <p>A disaster-response dashboard with secure authentication and monitoring workflows.</p>
+      <ul>
+        <li>Email/password authentication and Google OAuth2</li>
+        <li>Password recovery and protected sessions</li>
+        <li>Role-based authorization and admin controls</li>
+      </ul>
+      <p><strong>Tech:</strong> Java 21 · Spring Boot · JavaScript · Spring Security</p>
+      <a href="https://github.com/Diganth-M/Disaster-Monitoring">View project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🌱 Irrigation Scheduling System
-
-An AI-assisted application that helps optimize farm watering schedules using field and sensor conditions.
-
-- Field and sensor management
-- Automated irrigation schedule recommendations
-- AI-generated explanations and dashboard insights
-
-**Tech:** Java · Spring Boot · React · MySQL
-
-<a href="https://github.com/Diganth-M/Irrigation_Scheduling">View project →</a>
-
+      <h3>🌱 Irrigation Scheduling</h3>
+      <p>A project focused on planning and organizing irrigation schedules.</p>
+      <a href="https://github.com/Diganth-M/Irrigation_Scheduling">View project →</a>
     </td>
     <td width="50%" valign="top">
-
-### 🚌 Track My Bus
-
-A project in my portfolio focused on bus tracking and transit information.
-
-<a href="https://github.com/Diganth-M/Track-My-Bus">View project →</a>
-
+      <h3>🚌 Track My Bus</h3>
+      <p>A bus-tracking project in my development portfolio.</p>
+      <a href="https://github.com/Diganth-M/Track-My-Bus">View project →</a>
     </td>
   </tr>
 </table>
