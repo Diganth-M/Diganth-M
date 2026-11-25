@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Animated developer coding at a multi-monitor workstation" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/robot-coder.svg" width="520" alt="Animated robot coding at a futuristic multi-monitor workstation" />
 
 <br/>
 
