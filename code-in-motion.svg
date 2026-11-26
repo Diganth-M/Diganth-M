@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Diganth — Code in Motion</title>
+  <desc id="desc">An abstract kinetic code constellation. Streams of glowing symbols travel from both edges and converge into a luminous D monogram, surrounded by orbiting nodes and animated data paths. No robot or computer desk.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070d19"/><stop offset=".52" stop-color="#101a2d"/><stop offset="1" stop-color="#07131b"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#79f7ff"/><stop offset=".5" stop-color="#27c8f5"/><stop offset="1" stop-color="#628bff"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9a7bff"/><stop offset="1" stop-color="#4be7ec"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#1bc9e8" stop-opacity=".28"/><stop offset="1" stop-color="#1bc9e8" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="18"/></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9ab6d5" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <path id="orbit" d="M480 206 m-180 0 a180 96 0 1 0 360 0 a180 96 0 1 0 -360 0"/>
+  </defs>
+  <rect width="960" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="960" height="420" rx="28" fill="url(#grid)"/>
+  <circle cx="480" cy="202" r="190" fill="url(#halo)"/>
+  <circle cx="480" cy="202" r="118" fill="#27c8f5" opacity=".08" filter="url(#soft)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M-30 130 C160 130 245 188 380 198 S610 214 990 110" stroke="#27c8f5" stroke-opacity=".24" stroke-width="2" stroke-dasharray="4 12"/>
+    <path d="M-30 285 C180 285 270 224 390 210 S680 160 990 292" stroke="#927bff" stroke-opacity=".25" stroke-width="2" stroke-dasharray="3 13"/>
+    <path d="M0 206H960" stroke="#7fefff" stroke-opacity=".08" stroke-width="1"/>
+    <path d="M480 30V390" stroke="#7fefff" stroke-opacity=".08" stroke-width="1"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#8bdcf5" opacity=".78">
+    <text x="58" y="88">&lt;build /&gt;</text><text x="788" y="78">0101 1010</text>
+    <text x="54" y="340">commit: main</text><text x="786" y="344">ship_it();</text>
+    <text x="170" y="168" fill="#9a8cff">const idea =</text><text x="674" y="160" fill="#9a8cff">{'{ code }'}</text>
+  </g>
+  <g fill="none" stroke="url(#cyan)" stroke-width="2" filter="url(#glow)" opacity=".9">
+    <path d="M28 206 C160 206 270 206 376 206" stroke-dasharray="12 10"><animate attributeName="stroke-dashoffset" from="0" to="-88" dur="2.4s" repeatCount="indefinite"/></path>
+    <path d="M932 206 C800 206 690 206 584 206" stroke-dasharray="12 10"><animate attributeName="stroke-dashoffset" from="0" to="88" dur="2.4s" repeatCount="indefinite"/></path>
+    <path d="M100 112 C240 112 310 158 398 190" stroke-dasharray="3 11"><animate attributeName="stroke-dashoffset" from="0" to="-70" dur="3s" repeatCount="indefinite"/></path>
+    <path d="M860 300 C720 300 650 254 562 222" stroke-dasharray="3 11"><animate attributeName="stroke-dashoffset" from="0" to="70" dur="3s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="#67eaff" filter="url(#glow)">
+    <circle r="4"><animateMotion dur="3.2s" repeatCount="indefinite" path="M30 206 C180 206 280 206 420 206"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="2.6s" repeatCount="indefinite" path="M930 206 C780 206 680 206 540 206"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="4s" repeatCount="indefinite" path="M90 112 C240 112 310 158 420 202"/></animateMotion></circle>
+    <circle r="3"><animateMotion dur="4.4s" repeatCount="indefinite" path="M870 300 C720 300 650 254 540 210"/></animateMotion></circle>
+  </g>
+  <g transform="translate(480 204)">
+    <ellipse rx="188" ry="104" fill="none" stroke="#5b8dff" stroke-opacity=".24" stroke-width="1.5" stroke-dasharray="2 9"/>
+    <ellipse rx="152" ry="82" fill="none" stroke="#43e6ef" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="38 14">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="122" ry="65" fill="none" stroke="#9b85ff" stroke-opacity=".4" stroke-width="1.5" stroke-dasharray="2 7">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle r="70" fill="#071522" stroke="url(#cyan)" stroke-width="2.5" filter="url(#glow)"/>
+    <circle r="58" fill="#0d2236" stroke="#8aefff" stroke-opacity=".25"/>
+    <path d="M-26 -38V38H-4C24 38 42 21 42 0S24 -38 -4 -38Z" fill="none" stroke="url(#cyan)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+      <animate attributeName="stroke-dasharray" values="0 260;260 0;260 0" keyTimes="0;.55;1" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="0" cy="0" r="5" fill="#d9fbff"><animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#79f7ff" filter="url(#glow)">
+    <circle cx="300" cy="108" r="4"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="654" cy="110" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="270" cy="300" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="696" cy="294" r="4"><animate attributeName="opacity" values="1;.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#a9eaf6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" opacity=".8">
+    <text x="392" y="76">IDEA</text><text x="530" y="76">LOGIC</text>
+    <text x="388" y="328">DESIGN</text><text x="522" y="328">DEPLOY</text>
+  </g>
+  <g text-anchor="middle" font-family="Inter,Arial,sans-serif">
+    <text x="480" y="374" fill="#e5f6ff" font-size="15" font-weight="700" letter-spacing="5">DIGANTH  /  CODE IN MOTION</text>
+    <text x="480" y="397" fill="#75a9c9" font-size="10" letter-spacing="3">IDEAS ENTER · SOFTWARE EMERGES</text>
+  </g>
+  <path d="M30 26H180 M780 26H930 M30 394H180 M780 394H930" stroke="#39d9ef" stroke-opacity=".55" stroke-width="1"/>
+  <circle cx="30" cy="26" r="3" fill="#62eaff"/><circle cx="930" cy="26" r="3" fill="#62eaff"/>
+</svg>
