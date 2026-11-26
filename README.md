@@ -16,13 +16,21 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 
 <br/>
 
-<a href="https://portfolio-diganth.vercel.app/"><img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-087fba?style=for-the-badge&logo=vercel" alt="Visit my portfolio" /></a>
-<a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-238636?style=for-the-badge&logo=github" alt="Explore projects" /></a>
+<p align="center">
+  <a href="https://portfolio-diganth.vercel.app/">
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-087fba?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Diganth-M?tab=repositories">
+    <img src="https://img.shields.io/badge/MY%20PROJECTS-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+  </a>
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6&label=PROFILE%20VIEWS" alt="Profile views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0e75b6" alt="GitHub followers" />
+</p>
 
 </div>
 
