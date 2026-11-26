@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/code-in-motion.svg" width="720" alt="Diganth Code in Motion — animated kinetic code constellation" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/developer-live-environment.svg" width="760" alt="Animated developer workstation with live code terminal and system monitor" />
 
 <br/>
 
