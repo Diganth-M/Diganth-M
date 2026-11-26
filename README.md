@@ -16,7 +16,7 @@ Final-year Computer Science & Engineering Student · Java Developer · Full-Stac
 
 <br/>
 
-<a href="https://diganth-m.github.io/Diganth-M/"><img src="https://img.shields.io/badge/OPEN-INTERACTIVE%20PORTFOLIO-087fba?style=for-the-badge&logo=github" alt="Open interactive portfolio" /></a>
+<a href="https://portfolio-diganth.vercel.app/"><img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-087fba?style=for-the-badge&logo=vercel" alt="Visit my portfolio" /></a>
 <a href="https://github.com/Diganth-M?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-238636?style=for-the-badge&logo=github" alt="Explore projects" /></a>
 
 <br/>
