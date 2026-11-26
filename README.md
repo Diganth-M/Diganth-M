@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/robot-coder.svg" width="520" alt="Animated robot coding at a futuristic multi-monitor workstation" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/code-in-motion.svg" width="720" alt="Diganth Code in Motion — animated kinetic code constellation" />
 
 <br/>
 
