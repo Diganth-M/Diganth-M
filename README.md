@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/developer-live-environment.svg" width="760" alt="Animated developer workstation with live code terminal and system monitor" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/developer-live-environment.gif" width="760" alt="Animated multi-monitor software developer workstation with live terminal, code editor, system telemetry and flowing data" />
 
 <br/>
 
