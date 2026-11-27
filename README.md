@@ -6,7 +6,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/diganth-java-developer-typing.gif" width="375" alt="Diganth's animated robot coder artwork" />
+<img src="diganth-java-developer-typing.gif"
+     width="500"
+     alt="Diganth Java Developer Animation">
 
 <br/>
 
