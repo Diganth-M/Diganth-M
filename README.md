@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Diganth+%F0%9F%91%8B;Java+%26+Full-Stack+Developer;Building+Ideas+Into+Useful+Software" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Diganth+%F0%9F%91%8B;Java+Developer;Java+Backend+Developer;Java+%26+Spring+Boot+Developer;Building+Reliable+Applications" alt="Animated introduction" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/diganth-developer-workstation-full.gif" width="760" alt="Animated multi-monitor software developer workstation with live terminal, code editor, system telemetry and flowing data" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/java-developer-hero.svg" width="760" alt="Animated Java developer workspace with Java code editor, Java runtime and terminal" />
 
 <br/>
 
 **Turning ideas into code, one commit at a time.**
 
-Final-year Computer Science & Engineering Student · Java Developer · Full-Stack Enthusiast
+Final-year Computer Science & Engineering Student · Java Developer · Spring Boot & Backend Development
 
 <br/>
 
