@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Diganth+%F0%9F%91%8B;Java+Developer;Java+Backend+Developer;Java+%26+Spring+Boot+Developer;Building+Reliable+Applications" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Diganth+%F0%9F%91%8B;Java+Developer" alt="Animated introduction" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/java-developer-hero.svg" width="760" alt="Animated Java developer workspace with Java code editor, Java runtime and terminal" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/robot-coder-profile.png" width="514" alt="The exact robot coder artwork provided by Diganth" />
 
 <br/>
 
 **Turning ideas into code, one commit at a time.**
 
-Final-year Computer Science & Engineering Student · Java Developer · Spring Boot & Backend Development
+Final-year Computer Science & Engineering Student · Java Developer
 
 <br/>
 
@@ -27,9 +27,9 @@ Final-year Computer Science & Engineering Student · Java Developer · Spring Bo
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diganth-M&style=for-the-badge&color=0e75b6&label=PROFILE%20VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Diganth-M&style=flat-square&color=38bdf8&label=PROFILE%20VIEWS" alt="Profile views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Diganth-M?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Diganth-M?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&color=16a34a" alt="GitHub followers" />
 </p>
 
 </div>
