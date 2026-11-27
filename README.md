@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="diganth-java-developer-typing.gif"
+<img src="ChatGPT GIF Nov 27, 2026, 11_16_43 AM.gif"
      width="500"
      alt="Diganth Java Developer Animation">
 
