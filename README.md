@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/robot-coder-profile.png" width="514" alt="The exact robot coder artwork provided by Diganth" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/robot-coder-profile.gif" width="375" alt="Diganth's animated robot coder artwork" />
 
 <br/>
 
