@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/assets/robot-coder-profile.gif" width="375" alt="Diganth's animated robot coder artwork" />
+<img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/main/diganth-java-developer-typing.gif" width="375" alt="Diganth's animated robot coder artwork" />
 
 <br/>
 
@@ -108,8 +108,6 @@ Final-year Computer Science & Engineering Student · Java Developer
 <img src="https://raw.githubusercontent.com/Diganth-M/Diganth-M/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake in dark mode" width="100%" />
 
 </div>
-
----
 
 ---
 
